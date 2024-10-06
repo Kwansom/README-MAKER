@@ -53,7 +53,7 @@ function writeToFile(fileName, data) {
   fs.writeFile(fileName, data, (err) => {
     err
       ? console.log("Error writing to file", err)
-      : console.log("README.md has been created successfully!");
+      : console.log("genREADME.md has been created successfully!");
   });
 }
 
