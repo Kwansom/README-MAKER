@@ -12,7 +12,7 @@ Allows developers to quickly create a high quality README with minimal effort.
 
 ## Installation
 
-Clone the repository using this [SSH](://github.com/Kwansom/README-MAKER.git).
+Clone the repository using this [SSH](https://github.com/Kwansom/README-MAKER.git).
 
 ## Usage
 
