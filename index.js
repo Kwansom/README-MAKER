@@ -62,7 +62,7 @@ function init() {
   inquirer.prompt(questions).then(function (answers) {
     const markdown = generateMarkdown(answers);
     // export module generateMarkdown from separate js
-    writeToFile("README.md", markdown);
+    writeToFile("genREADME.md", markdown);
   });
 }
 
