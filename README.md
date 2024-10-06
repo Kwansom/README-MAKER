@@ -8,7 +8,7 @@ Allows developers to quickly create a high quality README with minimal effort.
 
 ## DEMO
 
-<video controls src="Walkthrough vid.mp4" title="DEMO"></video>
+<video controls src="DEMO VID.mp4" title="DEMO"></video>
 
 ## Installation
 
