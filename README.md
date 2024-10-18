@@ -1,12 +1,11 @@
-# README-MAKER
-
-![License](https://img.shields.io/badge/license-NONE-blue.svg)
+# README-MAKER ![License](https://img.shields.io/badge/license-NONE-blue.svg)
 
 ## Description
 
 Allows developers to quickly create a high quality README with minimal effort.
 
 ## DEMO
+
 <a href="https://drive.google.com/file/d/1lUW4RNg_2gnM2CV5NOXogkRlLrs1aPtG/view?usp=sharingLinks">Link to DEMO video.</a>
 <video controls src="DEMO VID.mp4" title="DEMO"></video>
 
